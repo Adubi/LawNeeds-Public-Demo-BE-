@@ -1,0 +1,275 @@
+[
+  {
+    "prefix": "Immigration Law/",
+    "practice_area": "Immigration Law",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/CPS Documents/",
+    "practice_area": "Immigration Law",
+    "document_type": "guidance",
+    "source_authority": "CPS",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Cases/",
+    "practice_area": "Immigration Law",
+    "document_type": "case",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Citizens Advice Documents/",
+    "practice_area": "Immigration Law",
+    "document_type": "citizens_advice",
+    "source_authority": "Citizens Advice",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Explanatory Notes/",
+    "practice_area": "Immigration Law",
+    "document_type": "explanatory_note",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Law Society Guide Documents/",
+    "practice_area": "Immigration Law",
+    "document_type": "law_society_guide",
+    "source_authority": "Law Society",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/LawNeeds DB UPDATE May 2026/guidance /",
+    "practice_area": "Immigration Law",
+    "document_type": "guidance",
+    "source_authority": "LawNeeds",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/LawNeeds DB UPDATE May 2026/law/",
+    "practice_area": "Immigration Law",
+    "document_type": "legislation",
+    "source_authority": "LawNeeds",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Lawneeds DB UPDATE nov 2025/guidance/",
+    "practice_area": "Immigration Law",
+    "document_type": "guidance",
+    "source_authority": "LawNeeds",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Lawneeds DB UPDATE nov 2025/law/",
+    "practice_area": "Immigration Law",
+    "document_type": "legislation",
+    "source_authority": "LawNeeds",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Legislation/",
+    "practice_area": "Immigration Law",
+    "document_type": "legislation",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Official Guidance Documents/",
+    "practice_area": "Immigration Law",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Immigration Law/Policy Manuals & Staff Guidance Documents/",
+    "practice_area": "Immigration Law",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/",
+    "practice_area": "Family Law",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/CPS Documents/",
+    "practice_area": "Family Law",
+    "document_type": "guidance",
+    "source_authority": "CPS",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Cases/",
+    "practice_area": "Family Law",
+    "document_type": "case",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Citizens Advice Documents/",
+    "practice_area": "Family Law",
+    "document_type": "citizens_advice",
+    "source_authority": "Citizens Advice",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Explanatory Notes/",
+    "practice_area": "Family Law",
+    "document_type": "explanatory_note",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Law Society Guide Documents/",
+    "practice_area": "Family Law",
+    "document_type": "law_society_guide",
+    "source_authority": "Law Society",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Law commission reports/",
+    "practice_area": "Family Law",
+    "document_type": "law_commission_report",
+    "source_authority": "Law Commission",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Legislation/",
+    "practice_area": "Family Law",
+    "document_type": "legislation",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Official Guidance Documents/",
+    "practice_area": "Family Law",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Family Law/Policy Manuals & Staff Guidance Documents/",
+    "practice_area": "Family Law",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/",
+    "practice_area": "Employment Law",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/ACAS Documents/",
+    "practice_area": "Employment Law",
+    "document_type": "guidance",
+    "source_authority": "ACAS",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Cases/",
+    "practice_area": "Employment Law",
+    "document_type": "case",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Citizens Advice Documents/",
+    "practice_area": "Employment Law",
+    "document_type": "citizens_advice",
+    "source_authority": "Citizens Advice",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Explanatory Notes/",
+    "practice_area": "Employment Law",
+    "document_type": "explanatory_note",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Law Society Guide Documents/",
+    "practice_area": "Employment Law",
+    "document_type": "law_society_guide",
+    "source_authority": "Law Society",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Law commission reports/",
+    "practice_area": "Employment Law",
+    "document_type": "law_commission_report",
+    "source_authority": "Law Commission",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Legislation/",
+    "practice_area": "Employment Law",
+    "document_type": "legislation",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Official Guidance Documents/",
+    "practice_area": "Employment Law",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Employment Law/Policy Manuals & Staff Guidance Documents/",
+    "practice_area": "Employment Law",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/",
+    "practice_area": "Road Traffic Offences",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/CPS Documents/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "guidance",
+    "source_authority": "CPS",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Cases/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "case",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Citizens Advice Documents/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "citizens_advice",
+    "source_authority": "Citizens Advice",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Explanatory Notes/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "explanatory_note",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Law Society Guide Documents/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "law_society_guide",
+    "source_authority": "Law Society",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Law commission reports/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "law_commission_report",
+    "source_authority": "Law Commission",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Legislation/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "legislation",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Official Guidance Documents/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  },
+  {
+    "prefix": "Road Traffic Offences/Policy Manuals & Staff Guidance Documents/",
+    "practice_area": "Road Traffic Offences",
+    "document_type": "guidance",
+    "jurisdiction": "UK"
+  }
+]
